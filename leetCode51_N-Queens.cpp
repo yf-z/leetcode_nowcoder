@@ -1,3 +1,8 @@
+/*
+*   Written By
+*   Yifan Zhang
+*/
+
 class Solution {
 public:
     vector<vector<string>> solveNQueens(int n) {

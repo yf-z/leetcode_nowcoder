@@ -1,7 +1,10 @@
 // https://www.nowcoder.com/practice/66ca0e28f90c42a196afd78cc9c496ea?tpId=37&&tqId=21256&rp=1&ru=/ta/huawei&qru=/ta/huawei/question-ranking
 
-#include <stdio.h>
-#include <stdlib.h>
+/*
+*   Written By
+*   Yifan Zhang
+*/
+
 #include <iostream>
 #include <math.h>
 

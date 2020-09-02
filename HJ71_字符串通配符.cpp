@@ -1,5 +1,8 @@
-#include <stdio.h>
-#include <stdlib.h>
+/*
+*   Written By
+*   Yifan Zhang
+*/
+
 #include <iostream>
 
 using namespace std;
